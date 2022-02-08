@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JoSeoHyun
+## 👋 Hi, I’m @JoSeoHyun
 - 👀 I’m interested in java
 - 📫 How to reach me -> joseohyun0201@gmail.com
 - 👩‍💻 My development blog -> seohyunz.github.io
