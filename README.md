@@ -30,4 +30,4 @@
 
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&&color=D1D1D1&height=115&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&&color=D1D1D1&height=125&section=footer)
