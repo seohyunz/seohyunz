@@ -16,13 +16,13 @@
 
 
 * * *
-<center>
+<center>  </center> 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohyunz&layout=compact)](https://github.com/seohyunz/github-readme-stats) 
- </center> 
+
  
-<center>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohyunz&show_icons=true)  
- </center> 
+
 
 
 
