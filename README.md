@@ -16,7 +16,7 @@
 
 
 * * *
-<center>  </center> 
+
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohyunz&layout=compact)](https://github.com/seohyunz/github-readme-stats) 
 
  
