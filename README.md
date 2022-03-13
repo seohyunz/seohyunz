@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=245&section=header&text=SEOHYUNZ_(●'◡'●))
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=245&section=header&text=SEOHYUNZ)
 
 <div align="center">
 
