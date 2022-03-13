@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=245&section=header&text=SEOHYUNZ)
 
-<center>가운데</center>  
-
 
 ## Studying 📚
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
@@ -20,6 +18,9 @@
 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/seohyunz/github-readme-stats)
+
+
+
 
 
 
