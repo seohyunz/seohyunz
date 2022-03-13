@@ -1,7 +1,5 @@
 
-
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=245&section=header&text=SOHYUNZ_(●'◡'●))
-
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=245&section=header&text=SOHYUNZ)
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
 
 
