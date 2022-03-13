@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=245&section=header&text=SEOHYUNZ)
 
+<div align="center">
+
 
   
 # Studying 📚  
@@ -21,7 +23,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohyunz&show_icons=true)  
 
 
-
+</div>
 
 
 
