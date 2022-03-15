@@ -22,7 +22,6 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohyunz&layout=compact)](https://github.com/seohyunz/github-readme-stats) 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohyunz&show_icons=true)
 
 </div>
 
