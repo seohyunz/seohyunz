@@ -16,7 +16,9 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>  
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<br>
+
+  <br>
+  
 # 🛠 Tools 🛠
   
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white"/>  
@@ -26,8 +28,11 @@
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/>  
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
-<br>  
+
+  <br>  
+  
 * * *
+  
 <br>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohyunz&layout=compact)](https://github.com/seohyunz/github-readme-stats) 
