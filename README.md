@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=245&section=header&text=SEOHYUNZ)
-<div align="center"> </div>
+<div align="center"> 
   
 # 📚 Studying 📚  
   
@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/> 
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>  <br> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohyunz&layout=compact)](https://github.com/seohyunz/github-readme-stats)
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/>  
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
@@ -38,12 +37,12 @@
 
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohyunz&layout=compact)](https://github.com/seohyunz/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seohyunz)](https://git.io/streak-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seohyunz&theme=default)
   
   
-  
+ </div>
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&&color=D1D1D1&height=125&section=footer)
