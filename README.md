@@ -39,8 +39,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohyunz&layout=compact)](https://github.com/seohyunz/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seohyunz)](https://git.io/streak-stats)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seohyunz&theme=default)
-  
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=seohyunz&theme=github)](https://github.com/seohyunz/github-readme-activity-graph)
   
  </div>
 
