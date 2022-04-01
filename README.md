@@ -41,7 +41,7 @@
 
 <div align="center"> 
   
-// ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seohyunz&theme=default)
+/* ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seohyunz&theme=default)*/
  
 </div>
 
