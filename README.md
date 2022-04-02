@@ -38,8 +38,9 @@
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohyunz&layout=compact)](https://github.com/seohyunz/github-readme-stats)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seohyunz)](https://git.io/streak-stats)
+
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seohyunz)](https://solved.ac/seohyunz)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={seohyunz})](https://solved.ac/{seohyunz})
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&&color=D1D1D1&height=125&section=footer)
