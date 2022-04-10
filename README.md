@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=245&section=header&text=SEOHYUNZ)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=06113C&height=245&section=header&text=SEOHYUNZ)
 <div align="center"> 
  <!-- 
 # 📚 Studying 📚  
-  
+  gradient
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/> 
