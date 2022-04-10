@@ -29,10 +29,6 @@
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/>  
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/
 -->
-  <br>  
-  
-* * *
-
 <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seohyunz&theme=graywhite&fire=00092C&ring=00092C&)](https://git.io/streak-stats)
