@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/
 -->
 <br>
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohyunz&layout=compact&langs_count=7&hide_title=true)(https://github.com/seohyunz/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seohyunz&theme=graywhite&fire=00092C&ring=00092C&)](https://git.io/streak-stats)
  
   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=seohyunz&bg_color=FFFF&line=325288&color=362222)](https://github.com/seohyunz/github-readme-activity-graph)
