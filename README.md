@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=21325E&height=245&section=header&text=SEOHYUNZ)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=325288&height=245&section=header&text=SEOHYUNZ)
 <div align="center"> 
  <!-- 
 # 📚 Studying 📚  
