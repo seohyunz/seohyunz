@@ -33,7 +33,7 @@
  
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seohyunz&theme=graywhite&fire=00092C&ring=00092C&)](https://git.io/streak-stats)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohyunz&layout=compact&langs_count=9&hide_title=true)
  
- <!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=seohyunz&bg_color=FFFF&line=325288&color=362222)](https://github.com/seohyunz/github-readme-activity-graph) -->
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=seohyunz&bg_color=FFFF&line=325288&color=362222)](https://github.com/seohyunz/github-readme-activity-graph)
  
 </div>
 
