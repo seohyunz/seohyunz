@@ -17,8 +17,7 @@
  <br>        
  <br>
  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seohyunz&theme=graywhite&fire=00092C&ring=00092C&)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohyunz&layout=compact&langs_count=9&hide_title=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seohyunz&theme=graywhite&fire=00092C&ring=00092C&)](https://git.io/streak-stats)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohyunz&layout=compact&langs_count=9&hide_title=false)
 
 <div>
                                                                                                         
